@@ -16,10 +16,9 @@ html, body {
 .jumbotron {
   background: url(https://s3.amazonaws.com/codecademy-content/projects/broadway/bg.png) no-repeat center center;
   background-size: cover;
-  height: 800px;
+  height: 600px;
 }
-  height: 800px;
-}
+
 
 .bg {
 
