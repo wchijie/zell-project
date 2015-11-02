@@ -5,6 +5,7 @@ html, body {
 
 .header {
   background-color: #333333;
+  position: fixed;
 }
 
 .container {
@@ -27,7 +28,6 @@ html, body {
 .nav {
   margin: 0;
   padding: 20px 0;
-  position: fixed;
 }
 
 .nav li {
