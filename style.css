@@ -6,13 +6,15 @@ html, body {
 .header {
   background-color: #333333;
   position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 9999;
 }
 
 .container {
   max-width: 940px;
   margin: 0 auto;
   padding: 0 10px;
-  position: fixed;
 }
 
 .jumbotron {
