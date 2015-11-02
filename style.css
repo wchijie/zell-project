@@ -56,6 +56,10 @@ html, body {
   margin-right: 25px;
 }
 
+.nav li img {
+  height: 30px;
+}
+
 .main {
   position: relative;
   top: 180px;
