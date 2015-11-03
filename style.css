@@ -36,8 +36,10 @@ html, body {
 }
 
 
-.bg {
-
+#banner-logo {
+  text-align:center;
+  height:200px;
+  margin: 80px auto 10px auto ;
 }
 
 .nav {
