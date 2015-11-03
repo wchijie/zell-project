@@ -75,7 +75,7 @@ html, body {
   font-weight: 600;
   font-size: 70px;
   margin-top: 0;
-  margin-bottom: 80px;
+  margin-bottom: 40px;
   text-transform: uppercase;
 }
 
@@ -89,6 +89,10 @@ html, body {
   padding: 16px 40px;
   text-decoration: none;
   text-transform: uppercase;
+}
+
+.btn-main:hover {
+  opacity:0.75;
 }
 
 .supporting {
@@ -112,7 +116,7 @@ html, body {
 }
 
 .supporting p {
-  font-weight: 400;
+  font-weight: 800;
   font-size: 14px;
   line-height: 20px;
   padding: 0 50px;
@@ -131,6 +135,12 @@ html, body {
   text-transform: uppercase;
   display: inline-block;
   margin-bottom: 20px;
+}
+
+.learn:hover {
+  background-color:#333333;
+  color:#FFFFFF;
+}
 
 .clearfix {
   clear: both;
