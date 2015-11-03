@@ -36,7 +36,7 @@ html, body {
 }
 
 
-#banner-logo {
+.banner-logo {
   text-align:center;
   height:200px;
   margin: 80px auto 10px auto ;
