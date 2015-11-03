@@ -12,6 +12,12 @@ html, body {
   z-index: 9999;
 }
 
+.top-anomaly {
+  max-width: 940px;
+  margin: 0 15px;
+  padding: 0 0;
+}
+
 .container {
   max-width: 940px;
   margin: 0 auto;
@@ -24,7 +30,7 @@ html, body {
   font-weight: 600;
   font-size: 70px;
   margin-top: 0;
-  margin-bottom: 80px;
+  margin-bottom: 50px;
   text-transform: uppercase;
   text-align: center;
 }
